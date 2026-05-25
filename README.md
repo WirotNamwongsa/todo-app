@@ -64,4 +64,5 @@ npm run dev
 | GET | /api/todos | ดึง Todo ทั้งหมด |
 | POST | /api/todos | เพิ่ม Todo ใหม่ |
 | PATCH | /api/todos/:id | toggle completed |
+| PUT/api/todos/:id | แก้ไข title ของ Todo |
 | DELETE | /api/todos/:id | ลบ Todo |
